@@ -1,5 +1,6 @@
 *
-!/.weechat
+!/.gitattributes.d/que-weechat
+!/.gitignore.d/que-weechat
 !/.weechat/alias.conf
 !/.weechat/buflist.conf
 !/.weechat/charset.conf
